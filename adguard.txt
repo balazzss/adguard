@@ -1,0 +1,4 @@
+! License: MIT (https://mit-license.org/)
+
+||google.com^
+||1sttheworld.com^
